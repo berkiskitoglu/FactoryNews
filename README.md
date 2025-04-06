@@ -17,8 +17,10 @@ Each article has an individual detailed view, written with structured meta tags 
 
 ## 📷 Preview
 
+### Home Page
 ![](https://github.com/berkiskitoglu/FactoryNews/blob/main/img/anasayfa_news.png)
-<br>
+
+### Blogs Page
 ![](https://github.com/berkiskitoglu/FactoryNews/blob/main/img/blog_news.png)
 
 ## 🛠️ Technologies Used
