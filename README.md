@@ -18,6 +18,7 @@ Each article has an individual detailed view, written with structured meta tags 
 ## 📷 Preview
 
 ![](https://github.com/berkiskitoglu/FactoryNews/blob/main/img/anasayfa_news.png)
+
 ![](https://github.com/berkiskitoglu/FactoryNews/blob/main/img/blog_news.png)
 
 ## 🛠️ Technologies Used
